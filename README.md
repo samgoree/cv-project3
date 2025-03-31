@@ -19,7 +19,7 @@ If it is not downloaded, the torch code will download it for you.
 * Using scikit-learn, train a LogisticRegressionClassifier on the training set, then 
 measure the classification accuracy on the test set.
 * Using scikit-learn, use K means clustering on the images with K=10. Figure out which
-* cluster corresponds to which digit.
+cluster corresponds to which digit.
 * Principal component analysis is a dimensionality reduction algorithm, which is another
 type of unsupervised learning. Using scikit-learn, run PCA on the images with
 n_components=2. Plot the output using a scatterplot.
